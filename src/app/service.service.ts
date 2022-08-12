@@ -6,7 +6,24 @@ import {HttpClient} from '@angular/common/http'
   providedIn: 'root'
 })
 export class ServiceService {
-  todayList:any=[];
+  todayList:any=[
+    {
+      "name":"Apple",
+      "quantity":1,
+      "carbohydrates":4,
+      "calories":30,
+      "fats":8,
+      "protiens":10,
+    },
+    {
+      "name":"Egg",
+      "quantity":4,
+      "carbohydrates":8,
+      "calories":50,
+      "fats":3,
+      "protiens":20
+    }
+  ];
   data:any = [
     {
       "name":"Apple",
