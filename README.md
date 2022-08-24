@@ -18,6 +18,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ![](src/assets/images/list.PNG)
 
 
+## Today's Menu List 
+
+![](src/assets/images/today-menu.PNG)
+
+
 ## Chart
 
 ![](src/assets/images/chart.PNG)
